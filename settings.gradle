@@ -1,0 +1,6 @@
+include ':ClickButtons'
+include ':Task4'
+include ':Task3'
+include ':Task2'
+include ':Task1'
+rootProject.name = "Lesson1"
